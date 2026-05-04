@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#F4B41A</color>
+    <color name="primary_dark">#d99e0e</color>
+    <color name="accent_orange">#FF7A2F</color>
+    <color name="dark_red">#7A1E2D</color>
+    <color name="darker_red">#5A0F1B</color>
+    <color name="bg_dark">#1F2937</color>
+    <color name="input_bg">#732B200A</color> <!-- rgba(80, 30, 10, 0.45) in hex -->
+    <color name="card_bg">#5978370A</color>  <!-- rgba(120, 55, 10, 0.35) in hex -->
+    <color name="text_hint">#73FFFFFF</color>
+</resources>
